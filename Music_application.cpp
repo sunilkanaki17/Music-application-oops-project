@@ -418,9 +418,9 @@ private:
 void printWelcomeMessage() {
     cout << "*******************************************************************************\n";
     cout << "*                                                                             *\n";
-    cout << "*                      WELCOME TO THE SPOTIFY MUSIC PLAYER                     *\n";
+    cout << "*                      WELCOME TO THE MUSIC PLAYER                     *\n";
     cout << "*                                                                             *\n";
-    cout << "*                   Your music, your way. Enjoy the best of Spotify.           *\n";
+    cout << "*                   Your music, your way. Enjoy the best of Music.           *\n";
     cout << "*                                                                             *\n";
     cout << "*******************************************************************************\n\n";
 }
